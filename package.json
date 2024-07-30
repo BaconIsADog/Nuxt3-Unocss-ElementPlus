@@ -1,5 +1,5 @@
 {
-  "name": "try0",
+  "name": "nuxt3-unocss-elementplus",
   "type": "module",
   "version": "0.0.0",
   "private": true,
@@ -15,22 +15,22 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "2.23.1",
+    "@antfu/eslint-config": "2.24.0",
     "@element-plus/nuxt": "^1.0.9",
-    "@nuxt/eslint": "^0.3.13",
-    "@unocss/eslint-config": "^0.61.5",
-    "@unocss/eslint-plugin": "^0.61.5",
-    "@unocss/nuxt": "^0.61.5",
+    "@nuxt/eslint": "^0.4.0",
+    "@unocss/eslint-config": "^0.61.7",
+    "@unocss/eslint-plugin": "^0.61.7",
+    "@unocss/nuxt": "^0.61.7",
     "dayjs": "^1.11.12",
     "dayjs-nuxt": "^2.1.9",
-    "element-plus": "^2.7.7",
-    "eslint": "^9.7.0",
+    "element-plus": "^2.7.8",
+    "eslint": "^9.8.0",
     "eslint-plugin-format": "^0.1.2",
     "nuxt": "^3.12.4",
     "sass": "^1.77.8",
-    "unocss": "^0.61.5",
-    "vue": "^3.4.32",
-    "vue-tsc": "^2.0.28"
+    "unocss": "^0.61.7",
+    "vue": "^3.4.34",
+    "vue-tsc": "^2.0.29"
   },
   "pnpm": {
     "peerDependencyRules": {
